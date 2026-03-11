@@ -12,6 +12,12 @@ This page defines each field used in the extended naming model described in [Sta
 
 Identifies the physical or logical hosting location.
 
+This section acts as the full operational lookup table for approved location codes used by this standard.
+
+The preferred model is city-based naming because city codes are usually more precise and operationally clearer than canton, region, or provider-level labels.
+
+Use region-level codes only when a city-based identifier is not practical. By default, this standard prefers city names.
+
 | Code | Location |
 | ---- | -------- |
 | ams | Amsterdam |
@@ -23,6 +29,7 @@ Identifies the physical or logical hosting location.
 | bol | Bologna |
 | bru | Brussels |
 | buc | Bucharest |
+| bts | Bratislava |
 | brn | Bern |
 | cph | Copenhagen |
 | chi | Chicago |
@@ -66,7 +73,6 @@ Identifies the physical or logical hosting location.
 | sof | Sofia |
 | sto | Stockholm |
 | stl | St. Louis |
-| tic | Ticino |
 | vie | Vienna |
 | aws | AWS region |
 | azr | Azure region |
@@ -84,6 +90,7 @@ Additional location examples:
 fra-prd-api-01-g1
 nbg-prd-web-01-g1
 gvl-prd-db-01-g1
+wls-prd-app-01-g1
 ```
 
 ## 2. Security Zone

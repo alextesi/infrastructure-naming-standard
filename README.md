@@ -35,7 +35,7 @@ It is designed to be:
 ├── README.md
 ├── CONTRIBUTING.md
 └── docs/
-    ├── README.md
+    ├── index.md
     ├── governance.md
     ├── operations/
     │   └── best-practices.md
@@ -48,7 +48,7 @@ It is designed to be:
     │   ├── overview.md
     │   └── patterns.md
     └── templates/
-        ├── README.md
+        ├── index.md
         ├── appendix-template.md
         └── standard-template.md
 ```

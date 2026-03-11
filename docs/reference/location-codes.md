@@ -1,6 +1,6 @@
 # Location Code Catalog
 
-This catalog provides a reusable set of short location codes based on geographic city names.
+This catalog provides a reusable set of short city-based location codes.
 
 Use these codes when the physical or operational hosting location matters and a city-based identifier is more useful than a provider-specific label.
 
@@ -8,6 +8,8 @@ Use these codes when the physical or operational hosting location matters and a 
 
 - Prefer short, stable lowercase codes.
 - Prefer obvious city abbreviations where possible.
+- Prefer city-level precision over canton, region, or provider-level labels.
+- Use non-city location codes only as explicit exceptions.
 - Keep the code independent from provider branding.
 - Use a shared code consistently across environments and teams.
 - Add new locations through the contribution workflow in [Contributing](../../CONTRIBUTING.md).
@@ -45,7 +47,6 @@ Use these codes when the physical or operational hosting location matters and a 
 | sgn | St. Gallen |
 | sof | Sofia |
 | sto | Stockholm |
-| tic | Ticino |
 | vie | Vienna |
 | wls | Wallisellen |
 | win | Winterthur |
