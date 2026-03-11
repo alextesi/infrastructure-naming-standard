@@ -17,25 +17,38 @@ Use these codes when the physical or operational hosting location matters and a 
 | Code | Location |
 | ---- | -------- |
 | ams | Amsterdam |
+| bas | Basel |
+| bol | Bologna |
 | bru | Brussels |
+| brn | Bern |
 | bts | Bratislava |
 | buc | Bucharest |
 | cph | Copenhagen |
 | dub | Dublin |
+| fir | Florence |
 | fra | Frankfurt |
+| gen | Geneva |
 | gvl | Gravelines |
 | hel | Helsinki |
 | lis | Lisbon |
+| lsn | Lausanne |
+| lug | Lugano |
 | lux | Luxembourg |
+| luz | Lucerne |
 | mad | Madrid |
 | man | Manchester |
 | mil | Milan |
 | osl | Oslo |
 | par | Paris |
 | prg | Prague |
+| rom | Rome |
+| sgn | St. Gallen |
 | sof | Sofia |
 | sto | Stockholm |
+| tic | Ticino |
 | vie | Vienna |
+| wls | Wallisellen |
+| win | Winterthur |
 | zrh | Zurich |
 
 ## North America

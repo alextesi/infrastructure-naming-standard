@@ -14,12 +14,60 @@ Identifies the physical or logical hosting location.
 
 | Code | Location |
 | ---- | -------- |
+| ams | Amsterdam |
+| atl | Atlanta |
+| abj | Abidjan |
+| akl | Auckland |
+| bas | Basel |
+| bos | Boston |
+| bol | Bologna |
+| bru | Brussels |
+| buc | Bucharest |
+| brn | Bern |
+| cph | Copenhagen |
+| chi | Chicago |
+| dal | Dallas |
+| del | New Delhi |
+| den | Denver |
+| dub | Dublin |
+| dxb | Dubai |
+| fir | Florence |
+| gen | Geneva |
+| lsn | Lausanne |
+| lug | Lugano |
+| luz | Lucerne |
+| sgn | St. Gallen |
+| rom | Rome |
+| wls | Wallisellen |
+| win | Winterthur |
 | zrh | Zurich |
 | fra | Frankfurt |
+| lis | Lisbon |
+| lux | Luxembourg |
+| lax | Los Angeles |
+| mad | Madrid |
+| man | Manchester |
+| mia | Miami |
+| mil | Milan |
 | nbg | Nuremberg |
 | hel | Helsinki |
 | gvl | Gravelines |
+| nyc | New York |
+| osl | Oslo |
+| paa | Palo Alto |
 | par | Paris |
+| phx | Phoenix |
+| prg | Prague |
+| rba | Rabat |
+| sao | Sao Paulo |
+| scl | Santiago |
+| sea | Seattle |
+| slc | Salt Lake City |
+| sof | Sofia |
+| sto | Stockholm |
+| stl | St. Louis |
+| tic | Ticino |
+| vie | Vienna |
 | aws | AWS region |
 | azr | Azure region |
 | lab | Internal lab |
